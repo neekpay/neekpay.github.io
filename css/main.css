@@ -1,0 +1,26 @@
+/* id ve class tanimlamalri */
+
+#mamaBaslikreklam {
+    font: 15pt Tahoma, Verdana;
+    color: blue;
+ }
+
+ #iframeBuyukluk {
+   width: 500px;
+   height: 250px;
+ }
+
+ #mamaSatinalin {
+    font: 19pt Tahoma, Verdana;
+    color: rgb(226, 217, 117);
+ }
+
+ #mamaUrunAd {
+    font: 30pt Tahoma, Verdana;
+    color: rgb(255, 22, 69);
+ }
+
+ #ogrenciAdSoyad {
+    font: 15pt;
+    color: rgb(0, 255, 64);
+ }
